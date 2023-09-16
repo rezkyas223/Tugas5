@@ -39,4 +39,4 @@ Proyek ini dilisensikan di bawah
 
 ---
 
-Dibuat oleh [Nama Anda]
+Dibuat oleh Muh Rezky Sarif
